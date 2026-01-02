@@ -8,4 +8,4 @@ DiY 3D printed SteamVR controller based on the HadesVR firmware
 
 ## Version 2.0
 
-#### - [Changelog]()
+#### - [Changelog](/changelogs/V2/V2.md)
