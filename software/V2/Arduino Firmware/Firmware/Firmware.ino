@@ -31,14 +31,14 @@ MPU6500 IMU;                                // IMU type
 //#define LEFT_CONTROLLER
 
 #define BatLevelMax         990
-#define JoyXMin             0             //These values are for PS4 analog sticks
-#define JoyXMax             1023          //different sticks might have different maximums and minimums
-#define JoyYMin             0             //along with different deadzones, if your controller drifts
-#define JoyYMax             1023          //you'll need to increase the deadzones
-#define JoyXDeadZoneMin     487
-#define JoyXDeadZoneMax     537
-#define JoyYDeadZoneMin     487
-#define JoyYDeadZoneMax     537
+#define JoyXMin             212             //These values are for PS4 analog sticks
+#define JoyXMax             741          //different sticks might have different maximums and minimums
+#define JoyYMin             261             //along with different deadzones, if your controller drifts
+#define JoyYMax             674          //you'll need to increase the deadzones
+#define JoyXDeadZoneMin     460
+#define JoyXDeadZoneMax     480
+#define JoyYDeadZoneMin     460
+#define JoyYDeadZoneMax     490
 
 //==========================================================================================================
 //************************************* Pin definitions ****************************************************
